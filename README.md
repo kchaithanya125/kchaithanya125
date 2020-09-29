@@ -47,7 +47,7 @@ Engineering student with ability to review plans,write reports,research solution
 
 ## Find me around the web <img src="https://github.com/iamchaithanyak/iamchaithanyak/blob/master/Assests/Earth.gif" width="24px"> :
 - Practicing Coding Skills in <a href="https://www.hackerrank.com">HackerRank</a>📹✍🏾
-- Personal Website <a href="https://iamchaithanyak.github.io">Shubham Giri</a> 🏓
+- Personal Website <a href="https://iamchaithanyak.github.io">chaithanya kamasani</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/iamchaithanyak/">LinkedIn</a> 💼
 - My Social Life <a href="https://www.instagram.com/chaithanya_kh">Instagram</a> 💞
 
